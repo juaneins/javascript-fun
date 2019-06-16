@@ -1,2 +1,2 @@
-# javascript-fun
-javascript fundamentals test
+# javascript-fundamentals
+javascript fundamentals test practices
